@@ -1,0 +1,17 @@
+D:\Zadaine2\Zadaine2\bin\Debug\net6.0-windows\Zadaine2.exe
+D:\Zadaine2\Zadaine2\bin\Debug\net6.0-windows\Zadaine2.deps.json
+D:\Zadaine2\Zadaine2\bin\Debug\net6.0-windows\Zadaine2.runtimeconfig.json
+D:\Zadaine2\Zadaine2\bin\Debug\net6.0-windows\Zadaine2.dll
+D:\Zadaine2\Zadaine2\bin\Debug\net6.0-windows\Zadaine2.pdb
+D:\Zadaine2\Zadaine2\obj\Debug\net6.0-windows\Zadaine2.csproj.AssemblyReference.cache
+D:\Zadaine2\Zadaine2\obj\Debug\net6.0-windows\Zadaine2.Form1.resources
+D:\Zadaine2\Zadaine2\obj\Debug\net6.0-windows\Zadaine2.csproj.GenerateResource.cache
+D:\Zadaine2\Zadaine2\obj\Debug\net6.0-windows\Zadaine2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zadaine2\Zadaine2\obj\Debug\net6.0-windows\Zadaine2.AssemblyInfoInputs.cache
+D:\Zadaine2\Zadaine2\obj\Debug\net6.0-windows\Zadaine2.AssemblyInfo.cs
+D:\Zadaine2\Zadaine2\obj\Debug\net6.0-windows\Zadaine2.csproj.CoreCompileInputs.cache
+D:\Zadaine2\Zadaine2\obj\Debug\net6.0-windows\Zadaine2.dll
+D:\Zadaine2\Zadaine2\obj\Debug\net6.0-windows\refint\Zadaine2.dll
+D:\Zadaine2\Zadaine2\obj\Debug\net6.0-windows\Zadaine2.pdb
+D:\Zadaine2\Zadaine2\obj\Debug\net6.0-windows\Zadaine2.genruntimeconfig.cache
+D:\Zadaine2\Zadaine2\obj\Debug\net6.0-windows\ref\Zadaine2.dll
